@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+section{
+    height:120vh
+}
+
+.cover{
+    font-size: 75px;
+    font-weight: bolder;
+}
+
+.img{
+    height:250vh;
+    width: 1200px;
+    background-image: url("../images/back.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* background-color: red; */
+
+}
+
+.para{
+    font-size: 30px;
+}
