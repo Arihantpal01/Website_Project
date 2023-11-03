@@ -1,6 +1,7 @@
 *{
     margin: 0;
     padding: 0;
+    box-sizing: border-box;
 }
 
 section{
@@ -25,4 +26,9 @@ section{
 
 .para{
     font-size: 30px;
+}
+
+.let{
+    font-size: 35px;
+    font-weight: bolder;
 }
